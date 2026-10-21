@@ -23,7 +23,7 @@ YouTubeVLC uses modern tools and a local HLS gateway to restore high-resolution 
 - Recovery safeguards and idle-session cleanup
 - Automatic and manual installation options
 
-Actual video quality depends on available YouTube formats, decoding capabilities, and network conditions.
+**Current maximum playback resolution is 1080p.** YouTubeVLC selects H.264 video and AAC audio for compatibility with VLC 3. Higher-resolution VP9 and AV1 streams are not currently supported.
 
 ## Requirements
 
